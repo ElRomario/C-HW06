@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HW06OeratorsOverride/1.0.0": {
+        "runtime": {
+          "HW06OeratorsOverride.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HW06OeratorsOverride/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

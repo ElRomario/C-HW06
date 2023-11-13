@@ -1,0 +1,16 @@
+C:\Users\ElRomario\source\repos\HW06OeratorsOverride\HW06OeratorsOverride\obj\Debug\net5.0\HW06OeratorsOverride.csproj.AssemblyReference.cache
+C:\Users\ElRomario\source\repos\HW06OeratorsOverride\HW06OeratorsOverride\obj\Debug\net5.0\HW06OeratorsOverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ElRomario\source\repos\HW06OeratorsOverride\HW06OeratorsOverride\obj\Debug\net5.0\HW06OeratorsOverride.AssemblyInfoInputs.cache
+C:\Users\ElRomario\source\repos\HW06OeratorsOverride\HW06OeratorsOverride\obj\Debug\net5.0\HW06OeratorsOverride.AssemblyInfo.cs
+C:\Users\ElRomario\source\repos\HW06OeratorsOverride\HW06OeratorsOverride\obj\Debug\net5.0\HW06OeratorsOverride.csproj.CoreCompileInputs.cache
+C:\Users\ElRomario\source\repos\HW06OeratorsOverride\HW06OeratorsOverride\bin\Debug\net5.0\HW06OeratorsOverride.exe
+C:\Users\ElRomario\source\repos\HW06OeratorsOverride\HW06OeratorsOverride\bin\Debug\net5.0\HW06OeratorsOverride.deps.json
+C:\Users\ElRomario\source\repos\HW06OeratorsOverride\HW06OeratorsOverride\bin\Debug\net5.0\HW06OeratorsOverride.runtimeconfig.json
+C:\Users\ElRomario\source\repos\HW06OeratorsOverride\HW06OeratorsOverride\bin\Debug\net5.0\HW06OeratorsOverride.runtimeconfig.dev.json
+C:\Users\ElRomario\source\repos\HW06OeratorsOverride\HW06OeratorsOverride\bin\Debug\net5.0\HW06OeratorsOverride.dll
+C:\Users\ElRomario\source\repos\HW06OeratorsOverride\HW06OeratorsOverride\bin\Debug\net5.0\ref\HW06OeratorsOverride.dll
+C:\Users\ElRomario\source\repos\HW06OeratorsOverride\HW06OeratorsOverride\bin\Debug\net5.0\HW06OeratorsOverride.pdb
+C:\Users\ElRomario\source\repos\HW06OeratorsOverride\HW06OeratorsOverride\obj\Debug\net5.0\HW06OeratorsOverride.dll
+C:\Users\ElRomario\source\repos\HW06OeratorsOverride\HW06OeratorsOverride\obj\Debug\net5.0\ref\HW06OeratorsOverride.dll
+C:\Users\ElRomario\source\repos\HW06OeratorsOverride\HW06OeratorsOverride\obj\Debug\net5.0\HW06OeratorsOverride.pdb
+C:\Users\ElRomario\source\repos\HW06OeratorsOverride\HW06OeratorsOverride\obj\Debug\net5.0\HW06OeratorsOverride.genruntimeconfig.cache
